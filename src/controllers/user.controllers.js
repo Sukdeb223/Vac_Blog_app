@@ -14,4 +14,3 @@ exports.getUserList = (req, res)=> {
     })
 }
 
-
